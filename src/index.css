@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background{
+    background-image: url(./assets/hero.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
